@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+d:\users\naisy\桌面\110360231陳廼軒\6.11\source\main.c(37): warning C4018: '<': signed/unsigned 不相符
+d:\users\naisy\桌面\110360231陳廼軒\6.11\source\main.c(7): warning C4101: 'k': 未參考的區域變數
+d:\users\naisy\桌面\110360231陳廼軒\6.11\source\main.c(7): warning C4101: 'j': 未參考的區域變數
+  6.11.vcxproj -> D:\Users\naisy\桌面\110360231陳廼軒\6.11\6.11\6.11\..\..\temp\debug\6.11.exe
