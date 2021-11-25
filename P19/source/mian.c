@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#pragma warning(disable:4996)
-
 int main(void)
 {
 	char string1[20];
@@ -10,9 +8,9 @@ int main(void)
 	int i;
 
 	printf("Enter a string: ");
-	scanf_s("%s", string1);
+	scanf_s("%s", string1,20);
 
-	printf("stringl is: %d\nstring2 is: %s\n""stringl with spaces between characters is: \n",string1,string2);
+	printf("stringl is: %s\nstring2 is: %s\n""stringl with spaces between characters is: \n",string1,string2);
 
 	for (i = 0; string1[i] != '\0'; i++)
 	{
